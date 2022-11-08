@@ -1,1 +1,2 @@
 print("DANI IS GAY")
+print("DANI IS GAYER THAN MOMO")
